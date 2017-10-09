@@ -25,7 +25,7 @@ a:hover {
   min-width: 1000px;
   display: block;
 }
-/*
+
 header {
   background-color: #232f3e;
   height: 99px;
@@ -58,7 +58,7 @@ header {
 }
 
 #nav-logo .nav-logo-link {
-  background: transparent url('../img/logo.png') no-repeat top left;
+  background: transparent url(../img/logo.png) no-repeat top left;
   background-size: 102px;
   width: 192px;
   height: 32px;
@@ -84,7 +84,7 @@ header {
 #nav-holiday {
   top: 9px;
   position: relative;
-  background-image: url('../img/fathers_day.jpg');
+  background-image: url(../img/dress.jpg);/**/
   width: 400px;
   height: 39px;
 }
@@ -273,7 +273,7 @@ header {
 }
 
 #nav-main .nav-right .cart {
-  background: transparent url(../img/cart.png) no-repeat 11px 11px;
+  background: transparent url(../img/carrito.png) no-repeat 11px 11px;
   background-size: 39px;
   padding: 7px 20px 7px 50px;
 }
@@ -347,7 +347,7 @@ h3 {
 
 #products .col {
   background: rgba(19,19,4,.04);
-  padding: 15px;
+  padding: 1px;
   min-height: 578px;
   position: relative;
 }
@@ -490,7 +490,7 @@ footer .middle li {
 }
 
 footer .middle .logo {
-  background: transparent url('../img/logo.png') no-repeat 0 0;
+  background: transparent url(../img/logo.png) no-repeat 0 0;
   background-size: 76px;
   width: 76px;
   height: 23px;
@@ -575,4 +575,4 @@ footer .bottom a {
 footer .bottom a span {
   color: #999;
   font-size: 10px;
-}*/
+}
